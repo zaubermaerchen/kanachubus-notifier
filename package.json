@@ -1,0 +1,19 @@
+{
+  "name": "kanachubus-notifier",
+  "version": "1.0.0",
+  "description": "Send time of next Kanachu bus to Google Home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mutsuki Kimuraya",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.28.1",
+    "express": "^4.16.2",
+    "google-home-notifier": "^1.2.0",
+    "js-yaml": "^3.10.0",
+    "node-fetch": "^1.7.3",
+    "xmldom": "^0.1.27"
+  }
+}
