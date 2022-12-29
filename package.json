@@ -9,7 +9,7 @@
   "author": "Mutsuki Kimuraya",
   "license": "MIT",
   "dependencies": {
-    "config": "^1.30.0",
+    "config": "^3.3.8",
     "express": "^4.16.3",
     "google-home-notifier": "^1.2.0",
     "js-yaml": "^3.13.1",
